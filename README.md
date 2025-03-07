@@ -85,6 +85,6 @@ This project is licensed under the **MIT License**.
 
 ## ✉️ Contact
 For any inquiries or collaborations, feel free to reach out!  
-📧 **Email:** your.email@example.com  
+📧 **Email:** abhinavshimpi2005@gmail.com  
 🔗 **LinkedIn:** [Abhinav Shimpi](https://www.linkedin.com/in/abhinav-shimpi-392616258/)  
 🌐 **GitHub:** [AbhinavShimpi19](https://github.com/AbhinavShimpi19)
