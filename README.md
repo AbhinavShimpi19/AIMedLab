@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
- git clone https://github.com/yourusername/AI-Medical-Lab.git
+ git clone https://github.com/AbhinavShimpi19/AI-Medical-Lab.git
  cd AI-Medical-Lab
 ```
 ### Install Backend Dependencies
