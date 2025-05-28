@@ -1,5 +1,6 @@
 # 🏥 AI-Based Medical Laboratory System
 
+Video Link : https://drive.google.com/file/d/1PFquYsENnZqUsjIbHJAh8JwK1owsRmBL/view?usp=sharing
 ## 📌 Overview
 Our **AI-Based Medical Laboratory System** is an innovative healthcare platform that leverages **Machine Learning (ML) and AI** to enhance precision, speed, and efficiency in medical diagnostics. The system helps patients, doctors, and lab assistants by automating medical test analysis and providing AI-powered insights.
 
